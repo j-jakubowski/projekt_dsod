@@ -58,6 +58,8 @@ int main(void)
 	lcd_puts (str_temporary);
 
 
+   //kompletnie randomowy komentarz
+
 
 	while(1)
 	{
